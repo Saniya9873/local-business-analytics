@@ -130,10 +130,8 @@ Dashboards include:
 
 ## ⭐ Acknowledgement
 
-Dataset inspired by real-world business review data.
-=======
-Dataset inspired by real-world business review data for analytical learning purposes.
-=======
+This project is based on publicly available business review data.  
+The dataset has been used strictly for educational and analytical purposes to practice data processing, analysis, and visualization techniques.
 
 ---
 
