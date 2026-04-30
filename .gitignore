@@ -1,0 +1,13 @@
+data/raw/
+data/interim/
+data/processed/
+
+*.json
+*.csv
+!data/sample_data.csv
+
+*.pbix
+
+__pycache__/
+.ipynb_checkpoints/
+.env
