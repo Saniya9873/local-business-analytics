@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Local Business Analytics Project
 
 ## 🚀 Overview
@@ -137,3 +138,23 @@ The dashboards provide:
 ## ⭐ Acknowledgement
 
 Dataset inspired by real-world business review data for analytical learning purposes.
+=======
+# 📊 Local Business Analytics Project
+
+## 🚀 Overview
+This project focuses on analyzing local business data using **Python, Pandas, MySQL, and Power BI**.  
+The pipeline processes raw JSON data, transforms it into structured format, and generates insights for business performance and customer sentiment.
+
+---
+
+## 🛠️ Tech Stack
+- **Python**
+- **Pandas**
+- **MySQL**
+- **Power BI**
+- **Jupyter Notebook**
+
+---
+
+## 📁 Project Structure
+>>>>>>> dc28cc4d91e2beb72c7c4fb48e7beb5c54b72ebd
