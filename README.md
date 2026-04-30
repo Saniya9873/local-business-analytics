@@ -1,20 +1,19 @@
-<<<<<<< HEAD
 # 📊 Local Business Analytics Project
 
 ## 🚀 Overview
 
-This project focuses on analyzing local business data using **Python, Pandas, MySQL, and Power BI**.
-The pipeline processes raw JSON data, transforms it into a structured format, and generates insights for business performance and customer sentiment.
+This project analyzes local business data using **Python, Pandas, MySQL, and Power BI**.
+It builds a complete data pipeline from raw JSON files to structured insights and interactive dashboards.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Pandas**
-* **MySQL**
-* **Power BI**
-* **Jupyter Notebook**
+* Python
+* Pandas
+* MySQL
+* Power BI
+* Jupyter Notebook
 
 ---
 
@@ -26,7 +25,7 @@ business_project/
 ├── data/
 │   ├── raw/              # Raw JSON files (ignored in Git)
 │   ├── interim/          # Intermediate data (ignored)
-│   ├── processed/        # Final cleaned dataset (ignored)
+│   ├── processed/        # Final dataset (ignored)
 │   └── sample_data.csv   # Sample dataset for demo
 │
 ├── notebooks/
@@ -40,7 +39,7 @@ business_project/
 │   └── project_databasefile.sql
 │
 ├── powerbi/
-│   └── screenshots/      # Dashboard images
+│   └── screenshots/
 │
 ├── README.md
 ├── requirements.txt
@@ -72,17 +71,17 @@ Power BI Dashboards
 ## 📊 Features
 
 * Data cleaning and preprocessing using Pandas
-* Sentiment analysis on customer reviews
+* Sentiment analysis on reviews
 * Business insights (ratings, categories, locations)
 * MySQL database integration
-* Interactive dashboards using Power BI
+* Power BI dashboards for visualization
 
 ---
 
 ## ⚠️ Note on Data
 
-Due to large file sizes, the full dataset is not included in this repository.
-Only a **sample dataset (`sample_data.csv`)** is provided for demonstration purposes.
+Full dataset is not included due to large size.
+Only **sample_data.csv** is provided for demonstration.
 
 ---
 
@@ -110,14 +109,14 @@ python src/insert_mysql.py
 
 ## 📈 Power BI Dashboard
 
-The dashboards provide:
+Dashboards include:
 
 * Business performance overview
 * Customer sentiment analysis
 * Location-based insights
 * Ratings distribution
 
-(Screenshots available in `powerbi/screenshots/`)
+(Add screenshots in `powerbi/screenshots/`)
 
 ---
 
@@ -125,36 +124,10 @@ The dashboards provide:
 
 * Deploy dashboards online
 * Add real-time data processing
-* Improve sentiment analysis model
-
----
-
-## 👤 Author
-
-**Your Name**
+* Improve sentiment analysis
 
 ---
 
 ## ⭐ Acknowledgement
 
-Dataset inspired by real-world business review data for analytical learning purposes.
-=======
-# 📊 Local Business Analytics Project
-
-## 🚀 Overview
-This project focuses on analyzing local business data using **Python, Pandas, MySQL, and Power BI**.  
-The pipeline processes raw JSON data, transforms it into structured format, and generates insights for business performance and customer sentiment.
-
----
-
-## 🛠️ Tech Stack
-- **Python**
-- **Pandas**
-- **MySQL**
-- **Power BI**
-- **Jupyter Notebook**
-
----
-
-## 📁 Project Structure
->>>>>>> dc28cc4d91e2beb72c7c4fb48e7beb5c54b72ebd
+Dataset inspired by real-world business review data.
